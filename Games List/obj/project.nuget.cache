@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZP4QFL2300Vrn5ifPOk3JaQCbR/1oayuCWTTCcMZS0PqGSCSPSyhIX4MyxMXZUxcVqgY7KL1UnFIVkPCLcfatA==",
+  "dgSpecHash": "wPLm+g9GlvrLJdaPbRp7M4qhbJD19Cl3Uqam8sJ7N/uXVVm9IAHrCahuJiUEVxVe6xbOyZjswAMU1cy3EpzOUQ==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Games List\\Games List\\Games List.csproj",
+  "projectFilePath": "D:\\C#\\Games List\\GamesList\\Games List\\Games List.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

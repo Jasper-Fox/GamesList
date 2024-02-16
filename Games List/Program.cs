@@ -1,6 +1,6 @@
 ﻿using System.Xml.Linq;
 using System;
-
+//Задача создать класс для каждога жанра игр. В классе прописать по 5+ полей разного типа(по возможности) и метод их вывода. Ну и вывести
 namespace Games_List
 {
     internal class Program
