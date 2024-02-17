@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\C#\\Games List\\GamesList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72A6E2A8-61C0-4D02-A21C-AF2BBCA4D7AC}|Games List\\Games List.csproj|d:\\c#\\games list\\gameslist\\games list\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A6E2A8-61C0-4D02-A21C-AF2BBCA4D7AC}|Games List\\Games List.csproj|solutionrelative:games list\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A6E2A8-61C0-4D02-A21C-AF2BBCA4D7AC}|Games List\\Games List.csproj|d:\\c#\\games list\\gameslist\\games list\\puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A6E2A8-61C0-4D02-A21C-AF2BBCA4D7AC}|Games List\\Games List.csproj|solutionrelative:games list\\puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A6E2A8-61C0-4D02-A21C-AF2BBCA4D7AC}|Games List\\Games List.csproj|d:\\c#\\games list\\gameslist\\games list\\moba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A6E2A8-61C0-4D02-A21C-AF2BBCA4D7AC}|Games List\\Games List.csproj|solutionrelative:games list\\moba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A6E2A8-61C0-4D02-A21C-AF2BBCA4D7AC}|Games List\\Games List.csproj|d:\\c#\\games list\\gameslist\\games list\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A6E2A8-61C0-4D02-A21C-AF2BBCA4D7AC}|Games List\\Games List.csproj|solutionrelative:games list\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A6E2A8-61C0-4D02-A21C-AF2BBCA4D7AC}|Games List\\Games List.csproj|d:\\c#\\games list\\gameslist\\games list\\rpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A6E2A8-61C0-4D02-A21C-AF2BBCA4D7AC}|Games List\\Games List.csproj|solutionrelative:games list\\rpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72A6E2A8-61C0-4D02-A21C-AF2BBCA4D7AC}|Games List\\Games List.csproj|d:\\c#\\games list\\gameslist\\games list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72A6E2A8-61C0-4D02-A21C-AF2BBCA4D7AC}|Games List\\Games List.csproj|solutionrelative:games list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +39,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Strategy.cs",
+              "DocumentMoniker": "D:\\C#\\Games List\\GamesList\\Games List\\Strategy.cs",
+              "RelativeDocumentMoniker": "Games List\\Strategy.cs",
+              "ToolTip": "D:\\C#\\Games List\\GamesList\\Games List\\Strategy.cs",
+              "RelativeToolTip": "Games List\\Strategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T11:51:17.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Puzzle.cs",
+              "DocumentMoniker": "D:\\C#\\Games List\\GamesList\\Games List\\Puzzle.cs",
+              "RelativeDocumentMoniker": "Games List\\Puzzle.cs",
+              "ToolTip": "D:\\C#\\Games List\\GamesList\\Games List\\Puzzle.cs",
+              "RelativeToolTip": "Games List\\Puzzle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T11:48:27.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MOBA.cs",
+              "DocumentMoniker": "D:\\C#\\Games List\\GamesList\\Games List\\MOBA.cs",
+              "RelativeDocumentMoniker": "Games List\\MOBA.cs",
+              "ToolTip": "D:\\C#\\Games List\\GamesList\\Games List\\MOBA.cs",
+              "RelativeToolTip": "Games List\\MOBA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T11:47:53.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shooter.cs",
+              "DocumentMoniker": "D:\\C#\\Games List\\GamesList\\Games List\\Shooter.cs",
+              "RelativeDocumentMoniker": "Games List\\Shooter.cs",
+              "ToolTip": "D:\\C#\\Games List\\GamesList\\Games List\\Shooter.cs",
+              "RelativeToolTip": "Games List\\Shooter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T11:47:08.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RPG.cs",
+              "DocumentMoniker": "D:\\C#\\Games List\\GamesList\\Games List\\RPG.cs",
+              "RelativeDocumentMoniker": "Games List\\RPG.cs",
+              "ToolTip": "D:\\C#\\Games List\\GamesList\\Games List\\RPG.cs",
+              "RelativeToolTip": "Games List\\RPG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T11:45:58.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\Games List\\GamesList\\Games List\\Program.cs",
               "RelativeDocumentMoniker": "Games List\\Program.cs",
               "ToolTip": "D:\\C#\\Games List\\GamesList\\Games List\\Program.cs",
               "RelativeToolTip": "Games List\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-15T16:55:32.589Z",
               "EditorCaption": ""
